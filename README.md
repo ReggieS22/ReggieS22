@@ -16,4 +16,4 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/reggie_js2x/
-[linkedin]: www.linkedin.com/in/reginald-smith-jr-a1ab03341
+[linkedin]: https://linkedin.com/in/reginald-smith-jr-a1ab03341
