@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ReggieS22/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ReggieS22/azure-network-protocols)
-  - <b>Network File shares and permissions</b>
+  - - <b>Network File shares and permissions</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ReggieS22/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ReggieS22/azure-network-protocols)
 
