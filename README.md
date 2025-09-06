@@ -6,10 +6,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/ReggieS22/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ReggieS22/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ReggieS22/ticket-lifecycle)
-- <b>Microsoft Azure / Active Directory</b>
+- <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/ReggieS22/configure-ad)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ReggieS22/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ReggieS22/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs]()
 - <b>Network File shares and permissions</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ReggieS22/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ReggieS22/azure-network-protocols)
