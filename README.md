@@ -9,6 +9,7 @@
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/ReggieS22/configure-ad)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ReggieS22/Azure-AD_OnPrem-Lab)
+  - [Configuring GPO and unlocking users accounts/resetting passwords](https://github.com/ReggieS22/Configuring-GPO-and-unlocking-users-accounts-resetting-passwords/blob/main/README.md)
 - <b>Network File shares and permissions</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ReggieS22/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ReggieS22/azure-network-protocols)
