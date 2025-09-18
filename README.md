@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ReggieS22/Azure-AD_OnPrem-Lab)
   - [Configuring GPO and unlocking users accounts/resetting passwords](https://github.com/ReggieS22/Configuring-GPO-and-unlocking-users-accounts-resetting-passwords/blob/main/README.md)
 - <b>Network File shares and permissions</b>
-  - [Network File Shares and permissions Lab](https://github.com/ReggieS22/configure-ad)
+  - [Network File Shares and permissions Lab](https://github.com/ReggieS22/Network-File-Shares-and-Permissions)
 
 
 <h2>🤳Connect with me:</h2>
